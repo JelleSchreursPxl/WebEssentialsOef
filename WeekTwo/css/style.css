@@ -1,0 +1,32 @@
+/* Over all css */
+body{
+    background: #d9ddd7;
+    font-family: Verdana sans-serif;
+}
+
+p{
+    background: #6a7689;
+    color: #fff;
+    padding: 20px;
+}
+
+/* ID css */
+#title{
+    color: #6df469;
+}
+
+/* CLASS css*/
+.highlight{
+    margin: auto 20%;
+    text-align: center;
+    color: #ebe834;
+    border: #ebe834 solid 3px;
+}
+
+.link{
+    color: #fff;
+}
+
+.link:hover{
+    color:#6df469;
+}
