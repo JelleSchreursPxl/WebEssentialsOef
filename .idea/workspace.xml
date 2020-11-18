@@ -23,13 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbf7aee9-5403-4b29-92d0-2a0e0d9e6744" name="Default Changelist" comment="Week 2 Oefeningen - assets map creeëren en imagetags toevoegen.">
-      <change afterPath="$PROJECT_DIR$/WeekTwo/image_assets/579e16ce304a8363c47ae21f3d52a8e5.600x600x1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/image_assets/The_Pretender_FF_New_Single.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/image_assets/Yellowcard_way_away.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/image_assets/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/Oefening4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/oefstyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeekTwo/Oefening6.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/Oefening1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeekTwo/Oefening6_Profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/Oefening1_Profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeekTwo/Oefening1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/Oefening1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -52,10 +50,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/WeekTwo" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -78,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605602923114</updated>
       <workItem from="1605602924305" duration="7929000" />
-      <workItem from="1605647897818" duration="4908000" />
+      <workItem from="1605647897818" duration="6264000" />
     </task>
     <task id="LOCAL-00001" summary="Oefeningen week 1 update commit">
       <created>1605649628016</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605650754239</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Week 2 Oefeningen - assets map creeëren en imagetags toevoegen.">
+      <created>1605686122869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605686122869</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,10 +145,10 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2381" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605648702636" />
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1605650759628">
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1605686127650">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605650759628" />
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605686127650" />
     <state x="92" y="92" width="1736" height="866" key="dock-window-1" timestamp="1605621423455">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
