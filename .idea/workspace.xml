@@ -22,10 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbf7aee9-5403-4b29-92d0-2a0e0d9e6744" name="Default Changelist" comment="Week 2 Oefeningen - oef 6 css styling recreation">
-      <change afterPath="$PROJECT_DIR$/WeekTwo/image_assets/listening.png" afterDir="false" />
+    <list default="true" id="bbf7aee9-5403-4b29-92d0-2a0e0d9e6744" name="Default Changelist" comment="Week 2 Oefeningen - oef 6 css styling recreation edit">
+      <change afterPath="$PROJECT_DIR$/WeekTwo/image_assets/iconfinder_Cassette_669942.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekTwo/image_assets/iconfinder_synthesizer_1936918.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeekTwo/Oefening1.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/Oefening1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WeekTwo/Oefening6_MusicPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/Oefening6_MusicPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WeekTwo/css/musicpage_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WeekTwo/css/musicpage_style.css" afterDir="false" />
     </list>
@@ -61,15 +61,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git_Repositories\WebEssentialsOef\WeekTwo\image_assets" />
+      <recent name="D:\Git_Repositories\WebEssentialsOef\WeekTwo\css" />
+      <recent name="D:\Git_Repositories\WebEssentialsOef" />
+      <recent name="D:\Git_Repositories\WebEssentialsOef\WeekOne" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Git_Repositories\WebEssentialsOef\WeekTwo\image_assets" />
       <recent name="D:\Git_Repositories\WebEssentialsOef\WeekTwo" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Git_Repositories\WebEssentialsOef\WeekTwo\css" />
-      <recent name="D:\Git_Repositories\WebEssentialsOef\WeekTwo\image_assets" />
-      <recent name="D:\Git_Repositories\WebEssentialsOef" />
-      <recent name="D:\Git_Repositories\WebEssentialsOef\WeekOne" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +81,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605602923114</updated>
       <workItem from="1605602924305" duration="7929000" />
-      <workItem from="1605647897818" duration="16973000" />
+      <workItem from="1605647897818" duration="17245000" />
+      <workItem from="1605733852963" duration="3484000" />
     </task>
     <task id="LOCAL-00001" summary="Oefeningen week 1 update commit">
       <created>1605649628016</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605700869213</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Week 2 Oefeningen - oef 6 css styling recreation edit">
+      <created>1605708945983</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605708945983</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,25 +165,26 @@
     <MESSAGE value="Week 2 Oefeningen - assets map creeëren en imagetags toevoegen." />
     <MESSAGE value="Week 2 Oefeningen - oef my music en oef 4 stylesheet update" />
     <MESSAGE value="Week 2 Oefeningen - oef 6 css styling recreation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 Oefeningen - oef 6 css styling recreation" />
+    <MESSAGE value="Week 2 Oefeningen - oef 6 css styling recreation edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 2 Oefeningen - oef 6 css styling recreation edit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2381" y="170" key="SettingsEditor" timestamp="1605648702636">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2381" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605648702636" />
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1605700872339">
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1605708949793">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605700872339" />
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605708949793" />
     <state x="92" y="92" width="1736" height="866" key="dock-window-1" timestamp="1605621423455">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="92" y="92" width="1736" height="866" key="dock-window-1/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605621423455" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1605700685750">
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1605735689791">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605621202701" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605700685750" />
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605735689791" />
   </component>
 </project>

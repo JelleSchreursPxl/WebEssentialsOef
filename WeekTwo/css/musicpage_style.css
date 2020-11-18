@@ -53,6 +53,31 @@ article{
     border-radius: 8px;
 }
 
+.albumlist{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.albumlist .albumbp{
+    position:relative;
+    padding-left: 32px;
+    padding-bottom: 16px;
+
+}
+
+ul .albumbp::before {
+    content: '';
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    background-image: url("../image_assets/iconfinder_Cassette_669942.png");
+    background-size: cover;
+    background-position: center;
+    left: 0;
+
+}
+
 .btn:hover{
     background: linear-gradient(to right, #FF4E50, #F9D423);
 }
