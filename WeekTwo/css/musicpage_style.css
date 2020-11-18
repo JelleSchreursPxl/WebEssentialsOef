@@ -1,0 +1,81 @@
+/*Overall CSS styling *************************************************************************************************/
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+html{
+    margin: 16px 240px 160px 240px;
+}
+
+iframe{
+    width: 680px;
+    height: 385px;
+}
+
+a:hover{
+    font-size: 15px;
+}
+
+article{
+    padding: 16px;
+    margin-top: 24px;
+    border: #E2E2E2 solid 2px;
+    border-radius: 8px;
+}
+
+
+/*Classes styling *****************************************************************************************************/
+.playlistimg{
+    width: 200px;
+    height: 200px;
+}
+
+.rightlistnav{
+    float: right;
+    width:20%;
+}
+
+.leftmain{
+    float: left;
+    width: 70%;
+}
+
+.btn{
+    width: 100px;
+    height: 16px;
+    padding: 12px;
+    margin-left: 8px;
+    text-decoration: none;
+    display: inline-block;
+    background: linear-gradient(to right, #0F2027, #203A43, #2C5364);
+    text-align: center;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.btn:hover{
+    background: linear-gradient(to right, #FF4E50, #F9D423);
+}
+
+
+/* ID styling *********************************************************************************************************/
+
+#pukkelpop{
+    background-color: #f953c6;
+}
+
+#rockwerchter{
+    background-color: #6dd5ed;
+}
+
+#graspop{
+    background-color: #67B26F;
+}
+
+#tomorrowland{
+    background-color: #f7797d;
+}
+
+#dour{
+    background-color: #F3F9A7;
+}
