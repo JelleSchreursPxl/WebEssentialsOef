@@ -1,0 +1,31 @@
+*{
+    font-family: Roboto sans-serif;
+}
+
+table{
+    width: 70%;
+    border: #000 solid 1px;
+    table-layout: auto;
+    color: #fff;
+    border-collapse: collapse;
+}
+
+thead, tfoot{
+    background-color: #27426d;
+}
+
+td, tr, th{
+    width: 10%;
+    height: 32px;
+    border: #000 solid 1px;
+    text-align: center;
+    vertical-align: center;
+}
+
+tbody tr:nth-child(even){
+    background-color:#6facff;
+}
+
+tbody tr:nth-child(odd){
+    background-color:#4f8cef;
+}

@@ -27,17 +27,28 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbf7aee9-5403-4b29-92d0-2a0e0d9e6744" name="Default Changelist" comment="Week 2 Oefeningen - oef 7">
-      <change afterPath="$PROJECT_DIR$/WeekTwo/Oefening7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/assets_oef7/badumtss.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/assets_oef7/badumtss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/assets_oef7/buzzer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/assets_oef7/buzzer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/assets_oef7/doorbell.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/assets_oef7/doorbell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/assets_oef7/fart.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/assets_oef7/fart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekTwo/css/oefening7_style.css" afterDir="false" />
+    <list default="true" id="bbf7aee9-5403-4b29-92d0-2a0e0d9e6744" name="Default Changelist" comment="Week 3 Oefeningen - oef chessboard &amp; tables oef 1">
+      <change afterPath="$PROJECT_DIR$/WeekThree/Oefening1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/Oefening2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/dameWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/dameZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/hout.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/koningWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/koningZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/loperWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/loperZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/nautilus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/paardWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/paardZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/pionWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/pionZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/the-lord-of-the-rings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/torenWit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/torenZwart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/witte-marmer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/assets_tables/zwarte-marmer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/css/Oef2_Chess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekThree/css/oef1_table.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +80,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WeekTwo/image_assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WeekThree/assets_tables" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -83,6 +94,7 @@
       <recent name="D:\Git_Repositories\WebEssentialsOef\WeekOne" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git_Repositories\WebEssentialsOef\WeekThree\assets_tables" />
       <recent name="D:\Git_Repositories\WebEssentialsOef\WeekTwo\image_assets" />
       <recent name="D:\Git_Repositories\WebEssentialsOef\WeekTwo" />
     </key>
@@ -97,7 +109,7 @@
       <updated>1605602923114</updated>
       <workItem from="1605602924305" duration="7929000" />
       <workItem from="1605647897818" duration="17245000" />
-      <workItem from="1605733852963" duration="6953000" />
+      <workItem from="1605733852963" duration="13746000" />
     </task>
     <task id="LOCAL-00001" summary="Oefeningen week 1 update commit">
       <created>1605649628016</created>
@@ -162,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605737500759</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Week 2 Oefeningen - oef 7">
+      <created>1605741294696</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605741294696</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +209,8 @@
     <MESSAGE value="Week 2 Oefeningen - oef 6 css styling recreation edit" />
     <MESSAGE value="Week 2 Oefeningen - oef 6 css bulletpoint omwisseling" />
     <MESSAGE value="Week 2 Oefeningen - oef 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 2 Oefeningen - oef 7" />
+    <MESSAGE value="Week 3 Oefeningen - oef chessboard &amp; tables oef 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Oefeningen - oef chessboard &amp; tables oef 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2334" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605737784294">
@@ -201,18 +221,18 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2381" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605738140021" />
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1605737502381">
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2" timestamp="1605741298852">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605737502381" />
+    <state x="2472" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605741298852" />
     <state x="92" y="92" width="1736" height="866" key="dock-window-1" timestamp="1605621423455">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="92" y="92" width="1736" height="866" key="dock-window-1/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605621423455" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1605735689791">
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1605778719057">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1605621202701" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605735689791" />
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1605778719057" />
   </component>
 </project>
