@@ -1,6 +1,7 @@
 /*Overall CSS styling *************************************************************************************************/
 *{
     font-family: "Roboto", sans-serif;
+    /* box-sizing: border-box; */
 }
 
 html{
